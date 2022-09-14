@@ -1,0 +1,15 @@
+.card{
+    width: 300px;
+    text-align: center;
+    border: 1px solid black;
+}
+.image{
+    width: 200px;
+}
+.simpsonFamily{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    text-align: center;
+}
