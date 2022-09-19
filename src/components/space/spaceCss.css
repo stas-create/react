@@ -1,0 +1,12 @@
+.mini{
+    width: 270px;
+    height: 350px;
+    text-align: center;
+}
+.launches{
+    display: flex;
+    flex-wrap: wrap;
+}
+.headSpace{
+    text-align: center;
+}
